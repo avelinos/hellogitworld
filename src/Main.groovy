@@ -3,7 +3,7 @@ import static Division.divide
 import static Subtract.subtract
 import static Sum.sum
 
-def name = "Matthew"
+def name = "A.J."
 int programmingPoints = 10
 
 println "Hello ${name}"
